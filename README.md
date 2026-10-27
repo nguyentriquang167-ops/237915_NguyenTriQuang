@@ -42,3 +42,11 @@ Dữ liệu được lưu trữ trên MongoDB Atlas. Frontend giao tiếp với 
 
 ## 6. Bảo mật
 Không đưa file .env, mật khẩu, token hoặc chuỗi kết nối có thông tin xác thực lên GitHub.
+## 7. Cơ sở dữ liệu MongoDB Atlas
+
+- Database: `237915_NguyenTriQuang`
+- Collection: `employees`
+- Số hồ sơ nhân viên mẫu: 3
+- Nền tảng lưu trữ: MongoDB Atlas
+- Quyền truy cập: Database User có quyền đọc và ghi dữ liệu.
+- Bảo mật: Không đưa mật khẩu hoặc chuỗi kết nối chứa thông tin xác thực lên GitHub.
